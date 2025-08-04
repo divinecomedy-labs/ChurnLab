@@ -1,4 +1,5 @@
 # ChurnLab
+<<<<<<< HEAD
 
 **ChurnLab** is a retention simulation testbed designed to model engagement dynamics in subscription-based user populations. It enables rigorous testing of recommendation strategies against a decay-based behavioral simulation environment, with realistic archetypes derived from empirical behavioral datasets.
 
@@ -94,7 +95,7 @@ Organizations interested in adapting ChurnLab for private simulation stacks or e
 
 **Polyform Noncommercial License 1.0.0**
 
-Copyright 2025 ChurnLab Contributors
+Copyright 2025 Divine Comedy Labs LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to use,
@@ -125,3 +126,6 @@ To request simulation customization or business alignment discussions, please re
 
 # Copyright 2025 Divine Comedy Labs LLC
 # Released under the Polyform Noncommercial License 1.0.0
+=======
+Simulation lab for retention based systems, designed to pit two systems against each other and score users retained, ARR, and energy usage. 
+>>>>>>> d6bc24d7eaaffc4cae1263127ffc48d694ec2093
