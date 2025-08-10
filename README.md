@@ -1,5 +1,5 @@
 # ChurnLab
-<<<<<<< HEAD
+
 
 **ChurnLab** is a retention simulation testbed designed to model engagement dynamics in subscription-based user populations. It enables rigorous testing of recommendation strategies against a decay-based behavioral simulation environment, with realistic archetypes derived from empirical behavioral datasets.
 
